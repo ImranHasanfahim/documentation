@@ -1,4 +1,4 @@
----
+---define( 'DISABLE_PANTHEON_UPDATE_NOTICES', true );
 title: WordPress and Drupal Core Updates
 description: Detailed information on applying and debugging upstream updates from Pantheon or a Custom Upstream.
 tags: [dashboard, git, terminus, updates, D8, D9, D10]
